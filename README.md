@@ -1,3 +1,3 @@
 # Devops project
 
-Testind devops tools.
+Testing devops tools.
